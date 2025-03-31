@@ -1,4 +1,4 @@
-repository: k1LoW/octocov/parallel
+repository: snkrdunk/octocov/parallel
 coverage:
   acceptable: current >= 40%
   paths:
