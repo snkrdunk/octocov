@@ -1,4 +1,4 @@
-repository: snkrdunk/octocov/parallel
+repository: ${GITHUB_REPOSITORY}/parallel
 coverage:
   acceptable: current >= 40%
   paths:
