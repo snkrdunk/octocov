@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.65.1](https://github.com/snkrdunk/octocov/commits/v0.65.1) - 2025-03-31
+### Other Changes
+- merge root repo by @TP-113 in https://github.com/snkrdunk/octocov/pull/1
+
 ## [v0.65.1](https://github.com/k1LoW/octocov/compare/v0.65.0...v0.65.1) - 2025-03-22
 ### Other Changes
 - ci: pin dependencies using pinact by @k1LoW in https://github.com/k1LoW/octocov/pull/474
