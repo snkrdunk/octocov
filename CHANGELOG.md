@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.65.2](https://github.com/snkrdunk/octocov/compare/v0.65.1...v0.65.2) - 2025-04-04
+### Other Changes
+- replace repository name by @TP-113 in https://github.com/snkrdunk/octocov/pull/3
+
 ## [v0.65.1](https://github.com/snkrdunk/octocov/commits/v0.65.1) - 2025-03-31
 ### Other Changes
 - merge root repo by @TP-113 in https://github.com/snkrdunk/octocov/pull/1
